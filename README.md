@@ -7,7 +7,7 @@
 
 > pkg update && pkg upgrade
 
-> git clone https://github.com/TermuxHack/FindMyIp
+> git clone https://github.com/TermuxHackz/FindMyIp
 
 > cd FindMyIp
 
