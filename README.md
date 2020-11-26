@@ -11,7 +11,7 @@
 
 > cd FindMyIp
 
-> chmod +x FindMyIp
+> chmod +x FindMyIp.py
 
 > python FindMyIp.py
 =========================================================
